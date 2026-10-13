@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Obsidian vault settings (per-machine)
+.obsidian/
+*.base
